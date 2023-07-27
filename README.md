@@ -8,7 +8,9 @@ whether the detected ensembles represent any subset of visual stimuli or not.
 QUICK RUN:
 
 For a quick example test run, load the variables from the exampleData directory and call
+
 [OUT, fig] = findEnsembles(spikeMatrix, ensembleParameters, roiCoordinates, stimuliStruct, stimuliParameters);
+
 in MatLab.
 
 
