@@ -1,5 +1,5 @@
 # ZenithLite
- A custom wrap-up  code of SVDEnsembles by Han Shuting.
+ A custom wrap-up code of SVDEnsembles repo by Han Shuting https://github.com/hanshuting/SVDEnsemble
 
 This is a small wrapper module that uses SVDEnsembles repo by Han Shuting and is tailored to our project needs.
 In particular the aim of this repo is to bind the visual stimuli to the ensembles detected by SVDEnsembles and show 
