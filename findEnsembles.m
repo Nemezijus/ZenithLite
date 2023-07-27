@@ -137,5 +137,5 @@ end
 
 OUT.coreSVD = coreSVD;
 OUT.statePeaksFull = statePeaksFull;
-OUT.stimEnsembles = ENS;
+OUT.stimEnsembles = stimEnsembles;
 OUT.parameters = parameters;
